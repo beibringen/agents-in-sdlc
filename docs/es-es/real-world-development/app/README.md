@@ -20,7 +20,7 @@ El taller sigue un único flujo continuo de Tailspin Toys:
 8. Revisa el cambio completo de filtrado y utiliza Agent Merge para la segunda PR.
 9. Usa el lienzo Database Explorer existente y, después, crea y prueba un lienzo de clasificación respaldado por el repositorio.
 
-Para mantener el taller centrado, crearás dos PR: una para las valoraciones por estrellas y otra para el filtrado con las actualizaciones de instrucciones y de la habilidad, el perfil QA y las pruebas. Empieza cada una desde `main` actualizado. El flujo de filtrado y calidad comparte una sesión, un worktree y una rama para que puedas aprovechar el trabajo realizado mientras exploras cada herramienta. El ejercicio final del lienzo permanece en su propia sesión para que puedas centrarte en crear y probar la superficie compartida en lugar de repetir el flujo de PR.
+Para mantener el taller centrado, crearás dos PR: una para las valoraciones por estrellas y otra para el filtrado con las actualizaciones de instrucciones y de la habilidad, el perfil QA y las pruebas. Empieza cada una desde `main` actualizado. El flujo de filtrado y calidad comparte una sesión, un worktree y una rama para que puedas aprovechar el trabajo realizado mientras exploras cada herramienta. El ejercicio final del lienzo permanece en su propia sesión para que puedas centrarte en crear y probar la superficie compartida en lugar de repetir el flujo de PR. Antes, comprueba si están disponibles las funcionalidades de los lienzos; si no lo están, registra el impedimento y utiliza la alternativa de solo lectura o continúa con el repaso.
 
 ## Lecciones
 
